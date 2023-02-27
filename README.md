@@ -7,6 +7,8 @@
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
+- [Guide](https://github.com/Atmosera-dev-prep/class-exercise/blob/main/Git%26GitHubGuide.pdf)
+- [GitHub Official slides](https://github.com/Atmosera-dev-prep/class-exercise/blob/main/GitHubDeveloperTraining.pdf)
 - [Quiz](https://github.com/Atmosera-dev-prep/class-exercise/blob/main/dev-quiz.pdf)
 
 ### 👇🔗 Click the dropdown menu below for the class URLs 🔗 👇
