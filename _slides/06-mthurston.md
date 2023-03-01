@@ -34,8 +34,6 @@ title: "Welcome to our slide deck!"
     }
 </style>
 
-### mthurston was here. 
-{.animate-character}
+### mthurston was here. {.animate-character}
 
-![cherryontop-o-cat](https://octodex.github.com/images/cherryontop-o-cat.png)
-{: .center}
+![cherryontop-o-cat](https://octodex.github.com/images/cherryontop-o-cat.png) {: .center}
