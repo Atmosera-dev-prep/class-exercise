@@ -6,9 +6,6 @@ style:
 
 <svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
-
-
-</style>
         <div xmlns="http://www.w3.org/1999/xhtml">
     <style>
     .animate-charcter
@@ -39,6 +36,7 @@ style:
         background-position: 200% center;
     }
     }
+    </style>
             <h1 class="animate-character">mthurston was here.</h1>
         </div>
     </foreignObject>
